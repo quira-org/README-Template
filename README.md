@@ -28,6 +28,14 @@
 ##  :beginner: About
 Add a detailed introduction about the project here, everything you want the reader to know.
 
+## :Prerequisites: Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+<!--- These are just example requirements. Add, duplicate or remove as required --->
+* You have installed the latest version of `<coding_language/dependency/requirement_1>`
+* You have a `<Windows/Linux/Mac>` machine. State which OS is supported/which is not.
+* You have read `<guide/link/documentation_related_to_project>`.
+* 
 ## :zap: Usage
 Write about how to use this project.
 
