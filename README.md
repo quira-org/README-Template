@@ -1,7 +1,12 @@
-# Introduction
-- Add your project logo.
-- Write a short introduction to the project.
-- If you are using badges, add them here.
+
+The below README template provides a comprehensive format for your future project. 
+You are welcome to pick the areas that are only relevant to you. 
+
+---
+
+# ⭐️ Introduction
+- Write a short introduction to the project. Try to keep it concise -> think 2-4 sentences max. 
+- [Optional] You can add here a background picture of your project + GitHub badges 
 
 ## 📚 Index
 
@@ -28,18 +33,23 @@
 ##  :beginner: About
 Add a detailed introduction about the project here, everything you want the reader to know.
 
-## :Prerequisites: Prerequisites
+## 📼 How it runs
+It could be interesting to add a short video of how the project runs and _what it does._ 
 
-Before you begin, ensure you have met the following requirements:
+## 🙏 Prerequisites
+
+In order to get started, make sure you meet the following requirements:
+
 <!--- These are just example requirements. Add, duplicate or remove as required --->
 * You have installed the latest version of `<coding_language/dependency/requirement_1>`
 * You have a `<Windows/Linux/Mac>` machine. State which OS is supported/which is not.
 * You have read `<guide/link/documentation_related_to_project>`.
-* 
+
+
 ## :zap: Usage
 Write about how to use this project.
 
-###  :electric_plug: Installation
+###  💽 Set up
 - Steps on how to install this project, to use it.
 - Be very detailed here, For example, if you have tools which run on different operating systems, write installation steps for all of them.
 
@@ -53,10 +63,6 @@ $ add installations steps if you have to.
 ##  :wrench: Development
 If you want other people to contribute to this project, this is the section, make sure you always add this.
 
-### :notebook: Pre-Requisites
-List all the pre-requisites the system needs to develop this project.
-- A tool
-- B tool
 
 ###  :nut_and_bolt: Development Environment
 Write about setting up the working environment for your project.
@@ -65,98 +71,77 @@ Write about setting up the working environment for your project.
 
 
 ###  :file_folder: File Structure
+
 Add a file structure here with the basic details about files, below is an example.
 
-```
+
 .
-├── assets
-│   ├── css
-│   │   ├── index-ui.css
-│   │   └── rate-ui.css
-│   ├── images
-│   │   ├── icons
-│   │   │   ├── shrink-button.png
-│   │   │   └── umbrella.png
-│   │   ├── logo_144.png
-│   │   └── Untitled-1.psd
-│   └── javascript
-│       ├── index.js
-│       └── rate.js
-├── CNAME
-├── index.html
-├── rate.html
+├── client
+│   ├── public
+│   │   ├── favicon.ico
+│   │   └── index.html
+│   ├── src
+│   │   ├── App.css
+│   │   ├── App.js
+│   │   ├── index.js
+│   │   └── logo.svg
+│   └── package.json
+├── server
+│   ├── controllers
+│   │   └── userController.js
+│   ├── models
+│   │   └── userModel.js
+│   ├── routes
+│   │   └── userRoutes.js
+│   ├── app.js
+│   └── package.json
+├── .gitignore
+├── LICENSE
 └── README.md
-```
 
-| No | File Name | Details 
-|----|------------|-------|
-| 1  | index | Entry point
 
-###  :hammer: Build
-Write the build Instruction here.
+###  :hammer: How to Contribute
+
+
 
 ### :rocket: Deployment
 Write the deployment instruction here.
 
-## :cherry_blossom: Community
 
-If it's open-source, talk about the community here, ask social media links and other links.
+## 🧐 FAQ
+Something that works quite well if you want to include an FAQ  here are **toggle lists.** 
 
- ###  :fire: Contribution
+<details>
+  <summary>Toggle List Example</summary>
+  
+  ### Title
+  1. ABC
+  2. DEF
+     * Hello
+     * Bye
 
- Your contributions are always welcome and appreciated. Following are the things you can do to contribute to this project.
+  ### Here's the MARKDOWN template to build your own toggle lists
+  ```
+    <details>
+    <summary>Toggle List Example</summary>
+    
+    ### Heading
+    1. ABC
+    2. DEF
+       * Hello
+       * Bye
+    </details>
+  ```
 
- 1. **Report a bug** <br>
- If you think you have encountered a bug, and I should know about it, feel free to report it [here]() and I will take care of it.
+</details>
 
- 2. **Request a feature** <br>
- You can also request for a feature [here](), and if it will viable, it will be picked for development.  
+## 📃 License
+State the license chosen and link it here.
+You can also provide a justification for the type of license chosen if you believe it to be necessary.
 
- 3. **Create a pull request** <br>
- It can't get better then this, your pull request will be appreciated by the community. You can get started by picking up any open issues from [here]() and make a pull request.
+## ⚡️ Contributors
+In this section, add all the contributors that have helped build this project.
+You can also add here a link to your CONTRIBUTING.md file.
 
- > If you are new to open-source, make sure to check read more about it [here](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) and learn more about creating a pull request [here](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github).
-
-
- ### :cactus: Branches
-
- I use an agile continuous integration methodology, so the version is frequently updated and development is really fast.
-
-1. **`stage`** is the development branch.
-
-2. **`master`** is the production branch.
-
-3. No other permanent branches should be created in the main repository, you can create feature branches but they should get merged with the master.
-
-**Steps to work with feature branch**
-
-1. To start working on a new feature, create a new branch prefixed with `feat` and followed by feature name. (ie. `feat-FEATURE-NAME`)
-2. Once you are done with your changes, you can raise PR.
-
-**Steps to create a pull request**
-
-1. Make a PR to `stage` branch.
-2. Comply with the best practices and guidelines e.g. where the PR concerns visual elements it should have an image showing the effect.
-3. It must pass all continuous integration checks and get positive reviews.
-
-After this, changes will be merged.
-
-
-### :exclamation: Guideline
-coding guidelines or other things you want people to follow should follow.
-
-
-## :question: FAQ
-You can optionally add a FAQ section about the project.
-
-##  :page_facing_up: Resources
-Add important resources here
-
-##  :camera: Gallery
-Pictures of your project.
-
-## :star2: Credit/Acknowledgment
-Credit the authors here.
-
-##  :lock: License
-Add a license here, or a link to it.
+## 📧 Contact 
+You can add here your email and social media links.
