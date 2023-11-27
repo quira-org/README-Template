@@ -19,31 +19,23 @@ You are welcome to pick and choose the sections that you find relevant.👇_
 If you have never added badges, head over to https://img.shields.io/badges/static-badge, follow the instructions and generate URL links to add below
 
 
-# ⭐️ Introduction
-- Write a short introduction to the project. Try to keep it concise -> think 2-4 sentences max.
+# :star2: About
+- Write a short introduction to the project.
+- Try to keep it concise -> think 2-4 sentences max.
 
-## 📚 Index
-
-- [About](#🙏 Requirements)
-
-##  :beginner: How the project works/looks like
-After the initial introduction, you can add here a short screen recording of your project.
-**Hint:** Sometimes the video can be too large, so it is a good idea to post your video first on YouTube and attach the link here. 
-
-## :outbox_tray: Requirements
-
-To get started, make sure you meet the following requirements:
-
-_For example:_ 
-* Dependency Version: You have installed the latest version of `<coding_language/dependency/requirement_1>`
-* State of OS: You have a `<Windows/Linux/Mac>` machine.
+## :books: Index
 
 
-###  💽 Set up
-- Steps on how to install this project and how to use it.
-- Be very detailed here
-For example, if you have tools which run on different operating systems, write installation steps for all of them.
 
+##  :movie_camera: Demo
+After the initial introduction, you can add a screen recording of your project.
+**Hint:** If the video's size is too large, it is a good idea to post your video on YouTube and attach the link here. 
+
+###  outbox_tray: Set up
+- These are the steps required to install the project and how to use it.
+- You should to mention the various setups based on each OS - e.g _if you have a `<Windows/Linux/Mac>` machine make sure to ..._
+
+Example:
 1. Get a API Key at [website](example.com)
 2. Clone the repo
    ```sh
@@ -58,22 +50,50 @@ For example, if you have tools which run on different operating systems, write i
    const API_KEY = 'YOUR API KEY HERE';
    ```
 
-###  :package: Commands
-- Commands to start the project.
 
-##  :wrench: Development
-If you want other people to contribute to this project, this is the section, make sure you always add this.
+###  :building_construction: Contribute to the project
+
+**Choose an Issue**
+Pick an issue that interests you. If you're new, look for "good-first-issue" tags.
+Comment on the Issue, explain why you want to work on it and showcase any relevant background information on why you can solve the issue.
+
+**Set Up Your Environment**
+- `Fork` our repository to your GitHub account. This creates a copy where you can make changes without affecting the original project.
+- `Clone` your fork to your local machine. Use the command `git clone <your-fork-url>`.
+- Create a new branch for your work. Use a descriptive name, like `fix-login-bug` or `add-user-profile-page`.
+
+**Commit Your Changes**
+Commit your changes with a _clear commit message_. For example, `git commit -m "Fix login bug by updating auth logic"`.
+
+**Submit a Pull Request**
+- Push your branch and changes to your fork on GitHub.
+- Create a pull request, compare branches and submit.
+- Provide a detailed description of what changes you've made and why. Link the pull request to the issue it resolves. 🔗
+
+**Review and Merge**
+Our team will review your pull request, and provide feedback or request changes if necessary. 
+Once your pull request is approved, **we will merge it into the main codebase.** 🥳
+
+---
+
+**Find an Issue**
+If you think users encountered a bug, let them know how to report it in the issue section.
+
+**Request a feature** <br>
+If you think users encountered a bug, let them know how to report it in the issue section.
+Mention that all request will be considered and then you will decide which will be picked for development.  
+
+Point users to the code of Conduct.
+Mention that if users are stuck, that they should comment on the issue or contact you directly (email/discord/slack/etc).
 
 
-###  :nut_and_bolt: Development Environment
-Write about setting up the working environment for your project.
-- How to download the project...
-- How to install dependencies...
-
+### :rocket: Deployment
+You can write your deployment instructions here.
 
 ###  :file_folder: File Structure
 
-Adding a file structure is really helpful as it helps users having to look individually in each folder.
+Adding a file structure is really helpful as it helps users gain an high level view of your project. 
+If your project has too many files, you can consider showcasing only the main folder paths. 
 
 ```
 .
@@ -102,49 +122,7 @@ Adding a file structure is really helpful as it helps users having to look indiv
 ```
 
 
-###  :hammer: Contribute to the project
-
-Your contributions are always welcome and appreciated. The following are the things you can do to contribute to this project.
-
-**Choose an Issue**
-Pick an issue that interests you. If you're new, look for "good-first-issue" tags.
-Comment on the Issue and explain why you want to work on the issue and if there are relevant background information we should know about you.
-
-**Set Up Your Environment**
-Fork the Repository: Fork our repository to your GitHub account. This creates a copy where you can make changes without affecting the original project.
-Clone Your Fork: Clone your fork to your local machine. Use the command git clone <your-fork-url>.
-Create a Branch: Create a new branch for your work. Use a descriptive name, like fix-login-bug or add-user-profile-page.
-
-Commit Your Changes
-Commit your changes with a _clear commit message_. For example, `git commit -m "Fix login bug by updating auth logic"`.
-
-**Submit a Pull Request**
-- Push your branch and changes to your fork on GitHub.
-- Go to our repository on GitHub, and you'll see a prompt to create a pull request. Click on it, compare branches, and submit.
-- Provide a detailed description of what changes you've made and why. Link the pull request to the issue it resolves.
-
-Step 5: Review and Merge
-Our team will review your pull request, provide feedback or request changes if necessary.
-Merge: Once your pull request is approved, one of our team members will merge it into the main codebase.
-
-
-**Find an Issue**
-If you think users encountered a bug, let them know how to report it in the issue section.
-
-**Request a feature** <br>
-If you think users encountered a bug, let them know how to report it in the issue section.
-Mention that all request will be considered and then you will decide which will be picked for development.  
-
-Point users to the code of Conduct.
-Mention that if users are stuck, that they should comment on the issue or contact you directly (email/discord/slack/etc).
-
-
-
-### :rocket: Deployment
-Write the deployment instructions here.
-
-
-## 🛣 Roadmap
+## :bicyclist: Roadmap
 _Current version number_
 - [x] Introduction of Concept
 - [x] Feature 1
@@ -154,7 +132,7 @@ _Current version number_
     - [ ] Revamp CSS
 
 
-## 🧐 FAQ
+## :thinking: FAQ
 Something that works quite well if you want to include an FAQ  here are **toggle lists.** 
 
 <details>
@@ -181,13 +159,13 @@ Something that works quite well if you want to include an FAQ  here are **toggle
 
 </details>
 
-## 📃 License
+## :page_facing_up: License
 State the license chosen and link it here.
 You can also provide a justification for the type of license chosen if you believe it to be necessary.
 
-## ⚡️ Contributors
+## :people_holding_hands_ Contributors
 In this section, add all the contributors that have helped build this project.
 You can also add here a link to your CONTRIBUTING.md file.
 
-## 📧 Contact 
+## :email: Contact 
 You can add here your email and social media links.
