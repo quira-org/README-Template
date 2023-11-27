@@ -1,5 +1,8 @@
-_The below README provides a comprehensive template for any of future repos. 
-You are welcome to pick and choose the sections that you find relevant.👇_
+The below README provides a comprehensive template for any of future repos. 
+Fork this repo to create a copy for yourself and select the sections that you find relevant for your repo.👇
+
+_If you find this template useful, consider giving it a star_ 🙏
+
 
 ---
 
@@ -11,12 +14,19 @@ You are welcome to pick and choose the sections that you find relevant.👇_
   <!-- You can add your badges here -->
   <!-- If you have never added badges, head over to https://img.shields.io/badges/static-badge, follow the instructions and generate URL links to add below -->
   <img src="https://img.shields.io/badge/STARS-20K-green"  />
-  <img src="https://img.shields.io/badge/FORKS-15K-red"  />
+  <img src="https://img.shields.io/badge/FORKS-15K-blue"  />
+  <img src="https://img.shields.io/badge/npm-v.0.21.0-red"  />
+  <img src="https://img.shields.io/badge/LICENSE-MIT-green"  />
 </p>
 
-[Optional] You can add here a background picture of your project + GitHub badges.
-If you have never added badges, head over to https://img.shields.io/badges/static-badge, follow the instructions and generate URL links to add below
 
+---
+In the first section of your repo, you can:
+- Add a background picture of your project
+- Add GitHub badges -> If you have never added badges before:
+    - head over to https://img.shields.io/badges/static-badge
+    - follow the instructions and generate URL links
+    - add URL links inside this README
 
 ---
 
@@ -27,6 +37,7 @@ If you have never added badges, head over to https://img.shields.io/badges/stati
 ---
 
 ### :books: Index
+
 
 ---
 
