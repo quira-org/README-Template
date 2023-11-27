@@ -20,7 +20,6 @@ _If you find this template useful, consider giving it a star_ 🙏
 </p>
 
 
----
 In the first section of your repo, you can:
 - Add a background picture of your project
 - Add GitHub badges -> If you have never added badges before:
