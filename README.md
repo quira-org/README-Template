@@ -1,15 +1,20 @@
+![Static Badge](https://img.shields.io/badge/FORKS-5K-red)
+
 
 The below README provides a comprehensive template for any of future repos. 
 You are welcome to pick and chose the sections that you find relevant. 
 Let's get into it! 👇
 
----
+
+
+
 
 ![Static Badge](https://img.shields.io/badge/STARS-20K-yellow)
 ![Static Badge](https://img.shields.io/badge/ISSUES-3_OPEN-GREEN)
 ![Static Badge](https://img.shields.io/badge/ISSUES-3_OPEN-GREEN)
 
 
+---
 
 
 The above are static badges. Things can get more advanced with Dynamic JSON 
@@ -18,7 +23,7 @@ The above are static badges. Things can get more advanced with Dynamic JSON
 # ⭐️ Introduction
 - Write a short introduction to the project. Try to keep it concise -> think 2-4 sentences max.
 - [Optional] You can add here a background picture of your project + GitHub badges
-- You can add badges 
+- Badges are quite common on READMEs. They help highlight important aspects of your repo through some slick design. 
   
 
 ## 📚 Index
@@ -134,7 +139,7 @@ Mention that if users are stuck, that they should comment on the issue or contac
 Write the deployment instructions here.
 
 
-## Roadmap
+## 🛣 Roadmap
 _Current version number_
 - [x] Introduction of Concept
 - [x] Feature 1
