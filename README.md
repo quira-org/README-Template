@@ -6,8 +6,12 @@ Let's get into it! 👇_
 
 
 <p align="center">
-  <img src="https://www.amug.com/wp-content/uploads/2016/09/you-logo-here-300x106.png" />
-  <img src="https://img.shields.io/badge/FORKS-5K-red"  />
+  <a>
+    <img src="https://www.amug.com/wp-content/uploads/2016/09/you-logo-here-300x106.png" />
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/FORKS-5K-red"  />
+  </a>
 </p>
 
 ![Static Badge](https://img.shields.io/badge/STARS-20K-yellow)
