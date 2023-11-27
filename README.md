@@ -10,7 +10,6 @@ You are welcome to pick and choose the sections that you find relevant.👇_
 <p align="center">
   <!-- You can add your badges here -->
   <!-- If you have never added badges, head over to https://img.shields.io/badges/static-badge, follow the instructions and generate URL links to add below -->
-  <img src="https://img.shields.io/badge/FORKS-5K-red"  />
   <img src="https://img.shields.io/badge/STARS-20K-green"  />
   <img src="https://img.shields.io/badge/FORKS-15K-red"  />
 </p>
@@ -19,19 +18,25 @@ You are welcome to pick and choose the sections that you find relevant.👇_
 If you have never added badges, head over to https://img.shields.io/badges/static-badge, follow the instructions and generate URL links to add below
 
 
-# :star2: About
+---
+
+### :star2: About
 - Write a short introduction to the project.
 - Try to keep it concise -> think 2-4 sentences max.
 
-## :books: Index
+---
 
+### :books: Index
 
+---
 
-##  :movie_camera: Demo
+###  :movie_camera: Demo
 After the initial introduction, you can add a screen recording of your project.
 **Hint:** If the video's size is too large, it is a good idea to post your video on YouTube and attach the link here. 
 
-###  outbox_tray: Set up
+---
+
+###  :outbox_tray: Set up
 - These are the steps required to install the project and how to use it.
 - You should to mention the various setups based on each OS - e.g _if you have a `<Windows/Linux/Mac>` machine make sure to ..._
 
@@ -50,6 +55,7 @@ Example:
    const API_KEY = 'YOUR API KEY HERE';
    ```
 
+---
 
 ###  :building_construction: Contribute to the project
 
@@ -74,6 +80,8 @@ Commit your changes with a _clear commit message_. For example, `git commit -m "
 Our team will review your pull request, and provide feedback or request changes if necessary. 
 Once your pull request is approved, **we will merge it into the main codebase.** 🥳
 
+This can also be the place to add a link to your CONTRIBUTING.md file
+
 ---
 
 **Find an Issue**
@@ -87,8 +95,12 @@ Point users to the code of Conduct.
 Mention that if users are stuck, that they should comment on the issue or contact you directly (email/discord/slack/etc).
 
 
+---
+
 ### :rocket: Deployment
 You can write your deployment instructions here.
+
+---
 
 ###  :file_folder: File Structure
 
@@ -121,8 +133,9 @@ If your project has too many files, you can consider showcasing only the main fo
 └── README.md
 ```
 
+---
 
-## :bicyclist: Roadmap
+### :bicyclist: Roadmap
 _Current version number_
 - [x] Introduction of Concept
 - [x] Feature 1
@@ -131,6 +144,7 @@ _Current version number_
     - [ ] Improve XYZ
     - [ ] Revamp CSS
 
+---
 
 ## :thinking: FAQ
 Something that works quite well if you want to include an FAQ  here are **toggle lists.** 
@@ -159,13 +173,22 @@ Something that works quite well if you want to include an FAQ  here are **toggle
 
 </details>
 
-## :page_facing_up: License
+---
+
+### :page_facing_up: License
 State the license chosen and link it here.
 You can also provide a justification for the type of license chosen if you believe it to be necessary.
 
-## :people_holding_hands_ Contributors
-In this section, add all the contributors that have helped build this project.
-You can also add here a link to your CONTRIBUTING.md file.
+---
 
-## :email: Contact 
+### :people_holding_hands_: Contributors
+In this section, add all the contributors that have helped build this project.
+For this, you can check out [https://allcontributors.org/](https://allcontributors.org/).
+With it, you can add new contributors in seconds!
+
+---
+
+### :email: Contact 
 You can add here your email and social media links.
+
+
