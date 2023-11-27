@@ -3,62 +3,60 @@ You are welcome to pick and choose the sections that you find relevant.👇_
 
 ---
 
-
 <p align="center">
+    <!--     You can add your logo here -->
     <img src="https://www.amug.com/wp-content/uploads/2016/09/you-logo-here-300x106.png" />
 </p>
 <p align="center">
+  <!-- You can add your badges here -->
+  <!-- If you have never added badges, head over to https://img.shields.io/badges/static-badge, follow the instructions and generate URL links to add below -->
   <img src="https://img.shields.io/badge/FORKS-5K-red"  />
-    <img src="https://img.shields.io/badge/FORKS-5K-red"  />
-    <img src="https://img.shields.io/badge/FORKS-5K-red"  />
-    ![Static Badge](https://img.shields.io/badge/STARS-20K-yellow)
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/FORKS-5K-red"  />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/FORKS-5K-red"  />
+  <img src="https://img.shields.io/badge/STARS-20K-yellow"  />
+  <img src="https://img.shields.io/badge/FORKS-15K-red"  />
 </p>
 
-![Static Badge](https://img.shields.io/badge/STARS-20K-yellow)
-![Static Badge](https://img.shields.io/badge/ISSUES-3_OPEN-GREEN)
-![Static Badge](https://img.shields.io/badge/FORKS-5K-red)
-
-The above are static badges. Things can get more advanced with Dynamic JSON 
+[Optional] You can add here a background picture of your project + GitHub badges.
+If you have never added badges, head over to https://img.shields.io/badges/static-badge, follow the instructions and generate URL links to add below
 
 
 # ⭐️ Introduction
 - Write a short introduction to the project. Try to keep it concise -> think 2-4 sentences max.
-- [Optional] You can add here a background picture of your project + GitHub badges
-- Badges are quite common on READMEs. They help highlight important aspects of your repo through some slick design. 
-  
 
 ## 📚 Index
 
 - [About](#🙏 Requirements)
 
-##  :beginner: About
-Add a detailed introduction about the project here, everything you want the reader to know.
-This is also the place to add a short video of how the project runs and _what it does._
+##  :beginner: How the project works/looks like
+After the initial introduction, you can add here a short screen recording of your project.
 **Hint:** Sometimes the video can be too large, so it is a good idea to post your video first on YouTube and attach the link here. 
 
-## 🙏 Requirements
+## :outbox_tray: Requirements
 
 To get started, make sure you meet the following requirements:
 
 _For example:_ 
 * Dependency Version: You have installed the latest version of `<coding_language/dependency/requirement_1>`
 * State of OS: You have a `<Windows/Linux/Mac>` machine.
-* You have read `<guide/link/documentation_related_to_project>`.
 
 
 ###  💽 Set up
 - Steps on how to install this project and how to use it.
-- Be very detailed here, For example, if you have tools which run on different operating systems, write installation steps for all of them.
+- Be very detailed here
+For example, if you have tools which run on different operating systems, write installation steps for all of them.
 
-```
-$ add installation steps if you have to.
-```
+1. Get a API Key at [website](example.com)
+2. Clone the repo
+   ```sh
+   git clone https://github.com/YOUR_USERNAME/Project-Name.git
+   ```
+3. Install NPM packages
+   ```sh
+   npm install npm@latest -g
+   ```
+4. Enter your API in `config.js`
+   ```js
+   const API_KEY = 'YOUR API KEY HERE';
+   ```
 
 ###  :package: Commands
 - Commands to start the project.
