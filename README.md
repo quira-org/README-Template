@@ -5,6 +5,15 @@ Let's get into it! 👇
 
 ---
 
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+
 # ⭐️ Introduction
 - Write a short introduction to the project. Try to keep it concise -> think 2-4 sentences max. 
 - [Optional] You can add here a background picture of your project + GitHub badges
@@ -17,7 +26,7 @@ Let's get into it! 👇
 ##  :beginner: About
 Add a detailed introduction about the project here, everything you want the reader to know.
 This is also the place to add a short video of how the project runs and _what it does._
-**Hint:** Sometimes the video can be too large so it is a good idea to post your video first on Youtube and attach the link here. 
+**Hint:** Sometimes the video can be too large, so it is a good idea to post your video first on YouTube and attach the link here. 
 
 ## 🙏 Requirements
 
@@ -30,11 +39,11 @@ _For example:_
 
 
 ###  💽 Set up
-- Steps on how to install this project, to use it.
+- Steps on how to install this project and how to use it.
 - Be very detailed here, For example, if you have tools which run on different operating systems, write installation steps for all of them.
 
 ```
-$ add installations steps if you have to.
+$ add installation steps if you have to.
 ```
 
 ###  :package: Commands
@@ -83,45 +92,36 @@ Adding a file structure is really helpful as it helps users having to look indiv
 
 ###  :hammer: Contribute to the project
 
- Your contributions are always welcome and appreciated. The following are the things you can do to contribute to this project.
+Your contributions are always welcome and appreciated. The following are the things you can do to contribute to this project.
 
- 1. **Report an issue** <br>
- If you think users encountered a bug, let them know how to report it in the issue section.
+**Choose an Issue**
+Pick an issue that interests you. If you're new, look for "good-first-issue" tags.
+Comment on the Issue and explain why you want to work on the issue and if there are relevant background information we should know about you.
 
- 2. **Request a feature** <br>
- If you think users encountered a bug, let them know how to report it in the issue section.
- Mention that all request will be considered and then you will decide which will be picked for development.  
-
- 3. **Create a pull request** <br>
- It can't get better then this, your pull request will be appreciated by the community. You can get started by picking up any open issues from [here]() and make a pull request.
-
- > If you are new to open-source, make sure to check read more about it [here](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) and learn more about creating a pull request [here](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github).
-
-
-Step 1: Find an Issue
-Look for Issues: Start by checking our Issues page. We use issues to report bugs, discuss enhancements, and track ongoing tasks.
-
-Choose an Issue: Pick an issue that interests you. If you're new, look for "good first issue" tags.
-Comment on the Issue: Let us know you're interested in working on it. This helps avoid multiple people working on the same issue.
-
-Step 2: Set Up Your Environment
+**Set Up Your Environment**
 Fork the Repository: Fork our repository to your GitHub account. This creates a copy where you can make changes without affecting the original project.
 Clone Your Fork: Clone your fork to your local machine. Use the command git clone <your-fork-url>.
 Create a Branch: Create a new branch for your work. Use a descriptive name, like fix-login-bug or add-user-profile-page.
 
+Commit Your Changes
+Commit your changes with a _clear commit message_. For example, `git commit -m "Fix login bug by updating auth logic"`.
 
-Step 3: Make Changes
-Code: Implement your changes in your local repository. Make sure to keep your code clean and well-documented.
-Commit Your Changes: Commit your changes with a clear commit message. For example, git commit -m "Fix login bug by updating auth logic".
-
-Step 4: Submit a Pull Request
+**Submit a Pull Request**
 - Push your branch and changes to your fork on GitHub.
 - Go to our repository on GitHub, and you'll see a prompt to create a pull request. Click on it, compare branches, and submit.
 - Provide a detailed description of what changes you've made and why. Link the pull request to the issue it resolves.
 
 Step 5: Review and Merge
-Wait for Review: Our team will review your pull request, provide feedback or request changes if necessary.
+Our team will review your pull request, provide feedback or request changes if necessary.
 Merge: Once your pull request is approved, one of our team members will merge it into the main codebase.
+
+
+**Find an Issue**
+If you think users encountered a bug, let them know how to report it in the issue section.
+
+**Request a feature** <br>
+If you think users encountered a bug, let them know how to report it in the issue section.
+Mention that all request will be considered and then you will decide which will be picked for development.  
 
 Point users to the code of Conduct.
 Mention that if users are stuck, that they should comment on the issue or contact you directly (email/discord/slack/etc).
@@ -129,7 +129,17 @@ Mention that if users are stuck, that they should comment on the issue or contac
 
 
 ### :rocket: Deployment
-Write the deployment instruction here.
+Write the deployment instructions here.
+
+
+## Roadmap
+_Current version number_
+- [x] Introduction of Concept
+- [x] Feature 1
+- [ ] Feature 2
+- [ ] Revisit Feature 1
+    - [ ] Improve XYZ
+    - [ ] Revamp CSS
 
 
 ## 🧐 FAQ
