@@ -6,11 +6,10 @@ You are welcome to pick and choose the sections that you find relevant.👇_
 
 <p align="center">
     <img src="https://www.amug.com/wp-content/uploads/2016/09/you-logo-here-300x106.png" />
-    <img src="https://img.shields.io/badge/FORKS-5K-red"  />
-  </a>
 </p>
-
 <p align="center">
+  <img src="https://img.shields.io/badge/FORKS-5K-red"  />
+  <img src="https://img.shields.io/badge/FORKS-5K-red"  />
   <img src="https://img.shields.io/badge/FORKS-5K-red"  />
 </p>
 
