@@ -11,6 +11,7 @@ You are welcome to pick and choose the sections that you find relevant.👇_
   <img src="https://img.shields.io/badge/FORKS-5K-red"  />
     <img src="https://img.shields.io/badge/FORKS-5K-red"  />
     <img src="https://img.shields.io/badge/FORKS-5K-red"  />
+    ![Static Badge](https://img.shields.io/badge/STARS-20K-yellow)
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/FORKS-5K-red"  />
