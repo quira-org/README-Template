@@ -3,7 +3,7 @@
 - Write a short introduction to the project.
 - If you are using badges, add them here.
 
-## :ledger: Index
+## 📚 Index
 
 - [About](#beginner-about)
 - [Usage](#zap-usage)
