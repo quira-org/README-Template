@@ -5,18 +5,20 @@ Let's get into it! 👇
 
 ---
 
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+![Static Badge](https://img.shields.io/badge/STARS-20K-yellow)
+![Static Badge](https://img.shields.io/badge/ISSUES-3_OPEN-GREEN)
+![Static Badge](https://img.shields.io/badge/ISSUES-3_OPEN-GREEN)
+
+
+
+
+The above are static badges. Things can get more advanced with Dynamic JSON 
+
 
 # ⭐️ Introduction
-- Write a short introduction to the project. Try to keep it concise -> think 2-4 sentences max. 
+- Write a short introduction to the project. Try to keep it concise -> think 2-4 sentences max.
 - [Optional] You can add here a background picture of your project + GitHub badges
+- You can add badges 
   
 
 ## 📚 Index
