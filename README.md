@@ -11,7 +11,7 @@ You are welcome to pick and choose the sections that you find relevant.👇_
   <!-- You can add your badges here -->
   <!-- If you have never added badges, head over to https://img.shields.io/badges/static-badge, follow the instructions and generate URL links to add below -->
   <img src="https://img.shields.io/badge/FORKS-5K-red"  />
-  <img src="https://img.shields.io/badge/STARS-20K-yellow"  />
+  <img src="https://img.shields.io/badge/STARS-20K-green"  />
   <img src="https://img.shields.io/badge/FORKS-15K-red"  />
 </p>
 
