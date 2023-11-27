@@ -20,35 +20,27 @@ _If you find this template useful, consider giving it a star_ 🙏
 </p>
 
 
-In the first section of your repo, you can:
-- Add a background picture of your project
-- Add GitHub badges -> If you have never added badges before:
-    - head over to https://img.shields.io/badges/static-badge
-    - follow the instructions and generate URL links
-    - add URL links inside this README
-
----
-
 ### :star2: About
 - Write a short introduction to the project.
-- Try to keep it concise -> think 2-4 sentences max.
+- Try to keep it concise ➡️ think 2-4 sentences max.
 
 ---
 
 ### :books: Index
 
 
+
 ---
 
 ###  :movie_camera: Demo
-After the initial introduction, you can add a screen recording of your project.
-**Hint:** If the video's size is too large, it is a good idea to post your video on YouTube and attach the link here. 
+- After the initial introduction, you can add a screen recording of your project.
+- If the video's size is too large, it is a good idea to post your video on YouTube and attach the link here. 
 
 ---
 
 ###  :outbox_tray: Set up
 - These are the steps required to install the project and how to use it.
-- You should to mention the various setups based on each OS - e.g _if you have a `<Windows/Linux/Mac>` machine make sure to ..._
+- You should to mention the various setups based on each OS - e.g `<Windows/Linux/Mac>`
 
 Example:
 1. Get a API Key at [website](example.com)
@@ -67,7 +59,7 @@ Example:
 
 ---
 
-###  :building_construction: Contribute to the project
+###  :building_construction: Contributors
 
 **Choose an Issue**
 Pick an issue that interests you. If you're new, look for "good-first-issue" tags.
@@ -102,7 +94,7 @@ If you think users encountered a bug, let them know how to report it in the issu
 Mention that all request will be considered and then you will decide which will be picked for development.  
 
 Point users to the code of Conduct.
-Mention that if users are stuck, that they should comment on the issue or contact you directly (email/discord/slack/etc).
+Mention that if users are stuck, they should comment on the issue or contact you directly (email/discord/slack/etc).
 
 
 ---
@@ -114,7 +106,7 @@ You can write your deployment instructions here.
 
 ###  :file_folder: File Structure
 
-Adding a file structure is really helpful as it helps users gain an high level view of your project. 
+Adding a file structure can help users gain a high-level understanding of your project. 
 If your project has too many files, you can consider showcasing only the main folder paths. 
 
 ```
@@ -186,19 +178,18 @@ Something that works quite well if you want to include an FAQ  here are **toggle
 ---
 
 ### :page_facing_up: License
-State the license chosen and link it here.
-You can also provide a justification for the type of license chosen if you believe it to be necessary.
+- State the license chosen and link it here.
+- You can also provide a justification for the type of license chosen if you believe it to be necessary.
 
 ---
 
-### :people_holding_hands_: Contributors
-In this section, add all the contributors that have helped build this project.
-For this, you can check out [https://allcontributors.org/](https://allcontributors.org/).
-With it, you can add new contributors in seconds!
+### :people_holding_hands: Our List of Contributors
+- State all the contributors that have helped build this project.
+- You can check out [https://allcontributors.org/](https://allcontributors.org/) to add new contributors in seconds!
 
 ---
 
 ### :email: Contact 
-You can add here your email and social media links.
+- You can add here your email and social media links.
 
 
