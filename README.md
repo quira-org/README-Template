@@ -1,8 +1,13 @@
-The below README provides a comprehensive template for any of future repos. 
+_The below README provides a comprehensive template for any of future repos. 
 You are welcome to pick and chose the sections that you find relevant. 
-Let's get into it! 👇
+Let's get into it! 👇_
+
 ---
 
+
+<p align="center">
+  <img src="https://www.amug.com/wp-content/uploads/2016/09/you-logo-here-300x106.png" />
+</p>
 
 ![Static Badge](https://img.shields.io/badge/STARS-20K-yellow)
 ![Static Badge](https://img.shields.io/badge/ISSUES-3_OPEN-GREEN)
