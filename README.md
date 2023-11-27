@@ -1,15 +1,12 @@
 The below README provides a comprehensive template for any of future repos. 
 You are welcome to pick and chose the sections that you find relevant. 
 Let's get into it! 👇
+---
 
 
 ![Static Badge](https://img.shields.io/badge/STARS-20K-yellow)
 ![Static Badge](https://img.shields.io/badge/ISSUES-3_OPEN-GREEN)
 ![Static Badge](https://img.shields.io/badge/FORKS-5K-red)
-
-
----
-
 
 The above are static badges. Things can get more advanced with Dynamic JSON 
 
