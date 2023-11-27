@@ -1,6 +1,5 @@
 _The below README provides a comprehensive template for any of future repos. 
-You are welcome to pick and chose the sections that you find relevant. 
-Let's get into it! 👇_
+You are welcome to pick and choose the sections that you find relevant.👇_
 
 ---
 
