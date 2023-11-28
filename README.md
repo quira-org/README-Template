@@ -84,35 +84,35 @@ $~$
 
 **Choose an Issue**
 
-    1. Pick an issue that interests you - if you're new, look for `good-first-issue` tags.
-    2. Read the CONTRIBUTING.md file
-    3. Comment on the Issue, and explain why you want to work on it
-       You can showcase any relevant background information on why you can solve the issue.
+1. Pick an issue that interests you - if you're new, look for `good-first-issue` tags.
+2. Read the CONTRIBUTING.md file
+3. Comment on the Issue, and explain why you want to work on it
+   You can showcase any relevant background information on why you can solve the issue.
     
 **Set Up Your Environment**
 
-    1. `Fork` our repository to your GitHub account. 
-    2. `Clone` your fork to your local machine. 
-        Use the command `git clone <your-fork-url>`.
-    3. Create a new branch for your work. 
-        Use a descriptive name, like `fix-login-bug` or `add-user-profile-page`.
+1. `Fork` our repository to your GitHub account. 
+2. `Clone` your fork to your local machine. 
+    Use the command `git clone <your-fork-url>`.
+3. Create a new branch for your work. 
+    Use a descriptive name, like `fix-login-bug` or `add-user-profile-page`.
     
 **Commit Your Changes**
 
-    - Commit your changes with a _clear commit message_. 
-      e.g `git commit -m "Fix login bug by updating auth logic"`.
+- Commit your changes with a _clear commit message_. 
+  e.g `git commit -m "Fix login bug by updating auth logic"`.
 
 **Submit a Pull Request**
 
-    - Push your branch and changes to your fork on GitHub.
-    - Create a pull request, compare branches and submit.
-    - Provide a detailed description of what changes you've made and why. 
-      Link the pull request to the issue it resolves. 🔗
+- Push your branch and changes to your fork on GitHub.
+- Create a pull request, compare branches and submit.
+- Provide a detailed description of what changes you've made and why. 
+  Link the pull request to the issue it resolves. 🔗
     
 **Review and Merge**
 
-    - Our team will review your pull request and provide feedback or request changes if necessary. 
-    - Once your pull request is approved, we will merge it into the main codebase 🥳
+- Our team will review your pull request and provide feedback or request changes if necessary. 
+- Once your pull request is approved, we will merge it into the main codebase 🥳
 
 $~$
 
@@ -219,37 +219,5 @@ $~$
 </p>
 
 
-
-**Choose an Issue**
-
-    1. Pick an issue that interests you - if you're new, look for `good-first-issue` tags.
-    2. Read the CONTRIBUTING.md file
-    3. Comment on the Issue, and explain why you want to work on it
-       You can showcase any relevant background information on why you can solve the issue.
-    
-**Set Up Your Environment**
-
-    1. `Fork` our repository to your GitHub account. 
-    2. `Clone` your fork to your local machine. 
-        Use the command `git clone <your-fork-url>`.
-    3. Create a new branch for your work. 
-        Use a descriptive name, like `fix-login-bug` or `add-user-profile-page`.
-    
-**Commit Your Changes**
-
-    - Commit your changes with a _clear commit message_. 
-      e.g `git commit -m "Fix login bug by updating auth logic"`.
-
-**Submit a Pull Request**
-
-    - Push your branch and changes to your fork on GitHub.
-    - Create a pull request, compare branches and submit.
-    - Provide a detailed description of what changes you've made and why. 
-      Link the pull request to the issue it resolves. 🔗
-    
-**Review and Merge**
-
-    - Our team will review your pull request and provide feedback or request changes if necessary. 
-    - Once your pull request is approved, we will merge it into the main codebase 🥳
 
 
