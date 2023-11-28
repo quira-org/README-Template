@@ -217,9 +217,39 @@ $~$
 <p align="left">
 <a href="https://www.linkedin.com/in/baptiste-fernandez-%E5%B0%8F%E7%99%BD-0a958630/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
 </p>
-<p align="left">
-<a href="https://dev.to/fernandezbaptiste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fernandezbaptiste" /></a>
-</p>
 
+
+
+**Choose an Issue**
+
+    1. Pick an issue that interests you - if you're new, look for `good-first-issue` tags.
+    2. Read the CONTRIBUTING.md file
+    3. Comment on the Issue, and explain why you want to work on it
+       You can showcase any relevant background information on why you can solve the issue.
+    
+**Set Up Your Environment**
+
+    1. `Fork` our repository to your GitHub account. 
+    2. `Clone` your fork to your local machine. 
+        Use the command `git clone <your-fork-url>`.
+    3. Create a new branch for your work. 
+        Use a descriptive name, like `fix-login-bug` or `add-user-profile-page`.
+    
+**Commit Your Changes**
+
+    - Commit your changes with a _clear commit message_. 
+      e.g `git commit -m "Fix login bug by updating auth logic"`.
+
+**Submit a Pull Request**
+
+    - Push your branch and changes to your fork on GitHub.
+    - Create a pull request, compare branches and submit.
+    - Provide a detailed description of what changes you've made and why. 
+      Link the pull request to the issue it resolves. 🔗
+    
+**Review and Merge**
+
+    - Our team will review your pull request and provide feedback or request changes if necessary. 
+    - Once your pull request is approved, we will merge it into the main codebase 🥳
 
 
