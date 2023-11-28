@@ -65,15 +65,18 @@ _If you find this template useful, consider giving it a star_ 🙏
 
 
 ###  :building_construction: Contribute
+
 - In this section, you invite users to learn how to contribute to your project.
 - This is also the place to add a link to your CONTRIBUTING.md file
 
 **Choose an Issue**
+
     1. Pick an issue that interests you - if you're new, look for `good-first-issue` tags.
     2. Read the CONTRIBUTING.md file
     3. Comment on the Issue, and explain why you want to work on it (+ showcase any relevant background information on why you can solve the issue).
     
 **Set Up Your Environment**
+
     1. `Fork` our repository to your GitHub account. This creates a copy where you can make changes without affecting the original project.
     2. `Clone` your fork to your local machine. 
         * Use the command `git clone <your-fork-url>`.
@@ -81,24 +84,29 @@ _If you find this template useful, consider giving it a star_ 🙏
         * Use a descriptive name, like `fix-login-bug` or `add-user-profile-page`.
     
 **Commit Your Changes**
+
     - Commit your changes with a _clear commit message_. 
         * e.g: `git commit -m "Fix login bug by updating auth logic"`.
 
 **Submit a Pull Request**
+
     - Push your branch and changes to your fork on GitHub.
     - Create a pull request, compare branches and submit.
     - Provide a detailed description of what changes you've made and why. Link the pull request to the issue it resolves. 🔗
     
 **Review and Merge**
+
     - Our team will review your pull request and provide feedback or request changes if necessary. 
     - Once your pull request is approved, **we will merge it into the main codebase.** 🥳
 
 ---
 
 **Found a bug?**
+
     - If you think users encountered a bug, let them know how to report it in the issue section.
 
 **Request a feature**
+
     - If you think users encountered a bug, let them know how to report it in the issue section.
     - Mention that all requests will be considered and then you will decide which will be picked for development.  
 
