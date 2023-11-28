@@ -77,9 +77,13 @@ _If you find this template useful, consider giving it a star_ 🙏
 
 <details>
   <summary>Set Up Your Environment</summary>
+    
     - `Fork` our repository to your GitHub account. This creates a copy where you can make changes without affecting the original project.
+    
     - `Clone` your fork to your local machine. Use the command `git clone <your-fork-url>`.
+    
     - Create a new branch for your work. Use a descriptive name, like `fix-login-bug` or `add-user-profile-page`.
+    
 </details>
     
 <details>
@@ -114,14 +118,15 @@ _If you find this template useful, consider giving it a star_ 🙏
     
     - If you think users encountered a bug, let them know how to report it in the issue section.
 
+</details>
+
 <details>
-    
   <summary>Request a feature</summary>
 
     - If you think users encountered a bug, let them know how to report it in the issue section.
     - Mention that all requests will be considered and then you will decide which will be picked for development.  
 
-<details>
+</details>
 
 - Point users to the code of Conduct.
 - Mention that if users are stuck, they should comment on the issue or contact you directly (email/discord/slack/etc).
