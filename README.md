@@ -66,9 +66,13 @@ _If you find this template useful, consider giving it a star_ 🙏
 
 <details>
   <summary>Choose an Issue</summary>
+    
     1. Pick an issue that interests you - if you're new, look for `good-first-issue` tags.
+    
     2. Read the CONTRIBUTING.md file
+    
     3. Comment on the Issue, and explain why you want to work on it (+ showcase any relevant background information on why you can solve the issue).
+    
 </details>
 
 <details>
