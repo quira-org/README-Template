@@ -27,7 +27,7 @@ _If you find this template useful, consider giving it a star_ 🙏
 
 ### :star2: About
 - Write a short introduction to the project.
-- Try to keep it concise ➡️ think 2-4 sentences max.
+- Try to keep it concise ➡️ think 2-4 sentences.
 
 
 ### :books: Index
@@ -86,7 +86,8 @@ $~$
 
     1. Pick an issue that interests you - if you're new, look for `good-first-issue` tags.
     2. Read the CONTRIBUTING.md file
-    3. Comment on the Issue, and explain why you want to work on it (+ showcase any relevant background information on why you can solve the issue).
+    3. Comment on the Issue, and explain why you want to work on it
+       You can showcase any relevant background information on why you can solve the issue.
     
 **Set Up Your Environment**
 
@@ -111,7 +112,7 @@ $~$
 **Review and Merge**
 
     - Our team will review your pull request and provide feedback or request changes if necessary. 
-    - Once your pull request is approved, **we will merge it into the main codebase.** 🥳
+    - Once your pull request is approved, we will merge it into the main codebase 🥳
 
 $~$
 
@@ -211,9 +212,13 @@ $~$
   * Copy paste the social links you enjoy and drop them below (make sure to change the `href` to your own links
 
 <p align="left">
-<a href="https://twitter.com/fernandezbap" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="fernandezbap" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/baptiste-fernandez-%E5%B0%8F%E7%99%BD-0a958630/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="40" /></a>
-<a href="https://dev.to/fernandezbaptiste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fernandezbaptiste" height="30" width="40" /></a>
+<a href="https://twitter.com/fernandezbap" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="fernandezbap" /></a>
+</p>
+<p align="left">
+<a href="https://www.linkedin.com/in/baptiste-fernandez-%E5%B0%8F%E7%99%BD-0a958630/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
+</p>
+<p align="left">
+<a href="https://dev.to/fernandezbaptiste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fernandezbaptiste" /></a>
 </p>
 
 
