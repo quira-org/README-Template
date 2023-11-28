@@ -28,6 +28,9 @@ _If you find this template useful, consider giving it a star_ 🙏
 
 ### :books: Index
 
+- [License](#page_facing_up-License)
+- [List of Contributors](#people_holding_hands-Our-List-of-Contributors)
+- [Contact](#email-contact)
 
 
 ---
@@ -39,10 +42,8 @@ _If you find this template useful, consider giving it a star_ 🙏
 ---
 
 ###  :outbox_tray: Set up
-- These are the steps required to install the project and how to use it.
-- You should to mention the various setups based on each OS - e.g `<Windows/Linux/Mac>`
+- These are the steps required to install the project and mention if necessary specificities based on `<Windows/Linux/Mac>`
 
-Example:
 1. Get a API Key at [website](example.com)
 2. Clone the repo
    ```sh
@@ -60,54 +61,70 @@ Example:
 ---
 
 ###  :building_construction: Contributors
+- In this section, you invite users to learn how to contribute to your project.
+- This is also be the place to add a link to your CONTRIBUTING.md file
 
-**Choose an Issue**
-Pick an issue that interests you. If you're new, look for "good-first-issue" tags.
-Comment on the Issue, explain why you want to work on it and showcase any relevant background information on why you can solve the issue.
+<details>
+  <summary>Choose an Issue</summary>
+    - Pick an issue that interests you - if you're new, look for `good-first-issue` tags.
+    - Read the CONTRIBUTING.md file
+    - Comment on the Issue, and explain why you want to work on it (+ showcase any relevant background information on why you can solve the issue).
+</details>
 
-**Set Up Your Environment**
-- `Fork` our repository to your GitHub account. This creates a copy where you can make changes without affecting the original project.
-- `Clone` your fork to your local machine. Use the command `git clone <your-fork-url>`.
-- Create a new branch for your work. Use a descriptive name, like `fix-login-bug` or `add-user-profile-page`.
+<details>
+  <summary>**Set Up Your Environment**</summary>
+    - `Fork` our repository to your GitHub account. This creates a copy where you can make changes without affecting the original project.
+    - `Clone` your fork to your local machine. Use the command `git clone <your-fork-url>`.
+    - Create a new branch for your work. Use a descriptive name, like `fix-login-bug` or `add-user-profile-page`.
+</details>
+    
+<details>
+  <summary>**Commit Your Changes**</summary>
+    - Commit your changes with a _clear commit message_. e.g: `git commit -m "Fix login bug by updating auth logic"`.
+</details>
 
-**Commit Your Changes**
-Commit your changes with a _clear commit message_. For example, `git commit -m "Fix login bug by updating auth logic"`.
+<details>
+  <summary>**Submit a Pull Request**</summary>
+    - Push your branch and changes to your fork on GitHub.
+    - Create a pull request, compare branches and submit.
+    - Provide a detailed description of what changes you've made and why. Link the pull request to the issue it resolves. 🔗
+</details>
 
-**Submit a Pull Request**
-- Push your branch and changes to your fork on GitHub.
-- Create a pull request, compare branches and submit.
-- Provide a detailed description of what changes you've made and why. Link the pull request to the issue it resolves. 🔗
-
-**Review and Merge**
-Our team will review your pull request, and provide feedback or request changes if necessary. 
-Once your pull request is approved, **we will merge it into the main codebase.** 🥳
-
-This can also be the place to add a link to your CONTRIBUTING.md file
+<details>
+  <summary>**Review and Merge**</summary>
+    Our team will review your pull request, and provide feedback or request changes if necessary. 
+    Once your pull request is approved, **we will merge it into the main codebase.** 🥳
+</details>
 
 ---
 
+<details>
+  <summary>Choose an Issue</summary>
 **Find an Issue**
 If you think users encountered a bug, let them know how to report it in the issue section.
 
+<details>
+  <summary>Choose an Issue</summary>
 **Request a feature** <br>
 If you think users encountered a bug, let them know how to report it in the issue section.
 Mention that all request will be considered and then you will decide which will be picked for development.  
 
-Point users to the code of Conduct.
-Mention that if users are stuck, they should comment on the issue or contact you directly (email/discord/slack/etc).
+
+- Point users to the code of Conduct.
+- Mention that if users are stuck, they should comment on the issue or contact you directly (email/discord/slack/etc).
 
 
 ---
 
 ### :rocket: Deployment
-You can write your deployment instructions here.
+- You can write your deployment instructions here.
 
 ---
 
 ###  :file_folder: File Structure
 
-Adding a file structure can help users gain a high-level understanding of your project. 
-If your project has too many files, you can consider showcasing only the main folder paths. 
+- Adding a file structure can help users gain a high-level understanding of your project. 
+- If your project has too many files, you can consider showcasing only the main folder paths. 
 
 ```
 .
@@ -148,7 +165,7 @@ _Current version number_
 
 ---
 
-## :thinking: FAQ
+### :thinking: FAQ
 Something that works quite well if you want to include an FAQ  here are **toggle lists.** 
 
 <details>
@@ -181,15 +198,18 @@ Something that works quite well if you want to include an FAQ  here are **toggle
 - State the license chosen and link it here.
 - You can also provide a justification for the type of license chosen if you believe it to be necessary.
 
+
 ---
 
 ### :people_holding_hands: Our List of Contributors
 - State all the contributors that have helped build this project.
-- You can check out [https://allcontributors.org/](https://allcontributors.org/) to add new contributors in seconds!
+- You can use the bot made by [https://allcontributors.org/](https://allcontributors.org/) to add new contributors automatically.
 
 ---
 
 ### :email: Contact 
-- You can add here your email and social media links.
+- Add your contact details if you want to
+- Email and social media links. 
+
 
 
