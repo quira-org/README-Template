@@ -190,6 +190,8 @@ Something that works quite well if you want to include an FAQ  here are **toggle
 
 </details>
 
+If you have a documentation platform/file, you can change the title to _Documentation_ and add the link for it here.
+
 $~$
 
 ### :page_facing_up: License
