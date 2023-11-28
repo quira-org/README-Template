@@ -19,11 +19,6 @@ _If you find this template useful, consider giving it a star_ 🙏
   <img src="https://img.shields.io/badge/LICENSE-MIT-green"  />
 </p>
 
-- You can the logo of your project at the start of your README
-- Underneath it you can provide various badges that highlight your project
-  * head over to https://img.shields.io/badges/static-badge, follow the instructions and generate URL links to add them into the above 
-
-
 
 ### :star2: About
 - Write a short introduction to the project.
