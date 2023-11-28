@@ -28,7 +28,6 @@ _If you find this template useful, consider giving it a star_ 🙏
 ### :books: Index
 
 - [About](#star2-About)
-- [Demo](#movie_camera-Demo)
 - [Set Up](#outbox_tray-Set-up)
 - [Contribute](#building_construction-Contribute)
 - [Deployment](#rocket-Deployment)
