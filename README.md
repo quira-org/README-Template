@@ -50,7 +50,6 @@ _If you find this template useful, consider giving it a star_ 🙏
     </a>
 </p>
 
-[![image](https://github.com/quine-sh/README-Template/assets/83458751/bd7c3b93-0c32-4fdf-bf6d-01d6114633ad)](youtube.com)
 
 $~$
 
