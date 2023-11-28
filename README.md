@@ -29,10 +29,10 @@ _If you find this template useful, consider giving it a star_ 🙏
 
 - [About](#star2-About)
 - [Demo](#movie_camera-Demo)
-- [Set Up](#outbox_tray-Set_up)
+- [Set Up](#outbox_tray-Set-up)
 - [Contribute](#building_construction-Contribute)
 - [Deployment](#rocket-Deployment)
-- [File Structure](#file_folder-File_Structure)
+- [File Structure](#file_folder-File-Structure)
 - [Roadmap](#bicyclist-Roadmap)
 - [FAQ](#thinking-FAQ)
 - [License](#page_facing_up-License)
@@ -69,7 +69,7 @@ _If you find this template useful, consider giving it a star_ 🙏
 - In this section, you invite users to learn how to contribute to your project.
 - This is also the place to add a link to your CONTRIBUTING.md file
 
-**Choose an Issue**
+Choose an Issue
 
     1. Pick an issue that interests you - if you're new, look for `good-first-issue` tags.
     2. Read the CONTRIBUTING.md file
