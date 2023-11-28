@@ -28,31 +28,16 @@ _If you find this template useful, consider giving it a star_ 🙏
 ### :books: Index
 
 - [About](#star2-About)
+- [Demo](#movie_camera-Demo)
 - [Set Up](#outbox_tray-Set-up)
 - [Contribute](#building_construction-Contribute)
 - [Deployment](#rocket-Deployment)
 - [File Structure](#file_folder-File-Structure)
+- [Roadmap](#bicyclist-Roadmap)
+- [FAQ](#thinking-FAQ)
 - [License](#page_facing_up-License)
 - [List of Contributors](#people_holding_hands-Our-List-of-Contributors)
-
-###  :outbox_tray: Set up
-- These are the steps required to install the project.
-- Mention, if needed, requirements based on the different OS type: `<Windows/Linux/Mac>`.
-
-_E.g_
-
-1. Get a API Key at [website](example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/YOUR_USERNAME/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install npm@latest -g
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'YOUR API KEY HERE';
+- [Contact](#email-contact)
 
 
 ###  :movie_camera: Demo
