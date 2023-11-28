@@ -223,6 +223,9 @@ Something that works quite well if you want to include an FAQ  here are **toggle
 - State all the contributors that have helped build this project.
 - You can use the bot made by [https://allcontributors.org/](https://allcontributors.org/) to add new contributors automatically.
 
+<img width="940" alt="contributors-table-small" src="https://github.com/quine-sh/README-Template/assets/83458751/7e93c398-24d1-40e7-992c-ec4a3c413ed7">
+
+
 ---
 
 ### :email: Contact 
