@@ -76,43 +76,52 @@ _If you find this template useful, consider giving it a star_ 🙏
 </details>
 
 <details>
-  <summary>**Set Up Your Environment**</summary>
+  <summary>Set Up Your Environment</summary>
     - `Fork` our repository to your GitHub account. This creates a copy where you can make changes without affecting the original project.
     - `Clone` your fork to your local machine. Use the command `git clone <your-fork-url>`.
     - Create a new branch for your work. Use a descriptive name, like `fix-login-bug` or `add-user-profile-page`.
 </details>
     
 <details>
-  <summary>**Commit Your Changes**</summary>
+  <summary>Commit Your Changes</summary>
     - Commit your changes with a _clear commit message_. e.g: `git commit -m "Fix login bug by updating auth logic"`.
 </details>
 
 <details>
-  <summary>**Submit a Pull Request**</summary>
+  <summary>Submit a Pull Request</summary>
+    
     - Push your branch and changes to your fork on GitHub.
+    
     - Create a pull request, compare branches and submit.
+    
     - Provide a detailed description of what changes you've made and why. Link the pull request to the issue it resolves. 🔗
+    
 </details>
 
 <details>
-  <summary>**Review and Merge**</summary>
-    Our team will review your pull request, and provide feedback or request changes if necessary. 
-    Once your pull request is approved, **we will merge it into the main codebase.** 🥳
+  <summary>Review and Merge</summary>
+    
+    - Our team will review your pull request, and provide feedback or request changes if necessary. 
+    
+    - Once your pull request is approved, **we will merge it into the main codebase.** 🥳
+    
 </details>
 
 ---
 
 <details>
-  <summary>Choose an Issue</summary>
-**Find an Issue**
-If you think users encountered a bug, let them know how to report it in the issue section.
+  <summary>Find a bug</summary>
+    
+    - If you think users encountered a bug, let them know how to report it in the issue section.
 
 <details>
-  <summary>Choose an Issue</summary>
-**Request a feature** <br>
-If you think users encountered a bug, let them know how to report it in the issue section.
-Mention that all request will be considered and then you will decide which will be picked for development.  
+    
+  <summary>Request a feature</summary>
 
+    - If you think users encountered a bug, let them know how to report it in the issue section.
+    - Mention that all requests will be considered and then you will decide which will be picked for development.  
+
+<details>
 
 - Point users to the code of Conduct.
 - Mention that if users are stuck, they should comment on the issue or contact you directly (email/discord/slack/etc).
