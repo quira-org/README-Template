@@ -51,7 +51,7 @@ _If you find this template useful, consider giving it a star_ 🙏
 
 [![image](https://github.com/quine-sh/README-Template/assets/83458751/bd7c3b93-0c32-4fdf-bf6d-01d6114633ad)](youtube.com)
 
-
+$~$
 
 ###  :outbox_tray: Set up
 - These are the steps required to install the project.
@@ -73,6 +73,7 @@ _E.g_
    const API_KEY = 'YOUR API KEY HERE';
    ```
 
+$~$
 
 ###  :building_construction: Contribute
 
@@ -112,9 +113,12 @@ _E.g_
     - Our team will review your pull request and provide feedback or request changes if necessary. 
     - Once your pull request is approved, **we will merge it into the main codebase.** 🥳
 
+$~$
 
 ### :rocket: Deployment
 - You can write your deployment instructions here.
+
+$~$
 
 ###  :file_folder: File Structure
 
@@ -156,6 +160,8 @@ _Current version number_
     - [ ] Improve XYZ
     - [ ] Revamp CSS
 
+$~$
+
 ### :thinking: FAQ
 Something that works quite well if you want to include an FAQ  here are **toggle lists.** 
 
@@ -182,6 +188,8 @@ Something that works quite well if you want to include an FAQ  here are **toggle
   ```
 
 </details>
+
+$~$
 
 ### :page_facing_up: License
 - State the license chosen and link it here.
