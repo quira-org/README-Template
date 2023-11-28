@@ -24,7 +24,6 @@ _If you find this template useful, consider giving it a star_ 🙏
 - Write a short introduction to the project.
 - Try to keep it concise ➡️ think 2-4 sentences max.
 
----
 
 ### :books: Index
 
@@ -40,7 +39,6 @@ _If you find this template useful, consider giving it a star_ 🙏
 - [List of Contributors](#people_holding_hands-Our-List-of-Contributors)
 - [Contact](#email-contact)
 
----
 
 ###  :movie_camera: Demo
 - After the initial introduction, you can add a screen recording of your project.
@@ -109,12 +107,8 @@ _If you find this template useful, consider giving it a star_ 🙏
 - Mention that if users are stuck, they should comment on the issue or contact you directly (email/discord/slack/etc).
 
 
----
-
 ### :rocket: Deployment
 - You can write your deployment instructions here.
-
----
 
 ###  :file_folder: File Structure
 
@@ -147,8 +141,6 @@ _If you find this template useful, consider giving it a star_ 🙏
 └── README.md
 ```
 
----
-
 ### :bicyclist: Roadmap
 _Current version number_
 - [x] Introduction of Concept
@@ -157,8 +149,6 @@ _Current version number_
 - [ ] Revisit Feature 1
     - [ ] Improve XYZ
     - [ ] Revamp CSS
-
----
 
 ### :thinking: FAQ
 Something that works quite well if you want to include an FAQ  here are **toggle lists.** 
@@ -187,14 +177,9 @@ Something that works quite well if you want to include an FAQ  here are **toggle
 
 </details>
 
----
-
 ### :page_facing_up: License
 - State the license chosen and link it here.
 - You can also provide a justification for the type of license chosen if you believe it to be necessary.
-
-
----
 
 ### :people_holding_hands: Our List of Contributors
 - State all the contributors that have helped build this project.
@@ -203,8 +188,6 @@ Something that works quite well if you want to include an FAQ  here are **toggle
 
 <img width="940" alt="contributors-table-small" src="https://github.com/quine-sh/README-Template/assets/83458751/7e93c398-24d1-40e7-992c-ec4a3c413ed7">
 
-
----
 
 ### :email: Contact 
 - Email and social media links. 
