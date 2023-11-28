@@ -28,10 +28,17 @@ _If you find this template useful, consider giving it a star_ 🙏
 
 ### :books: Index
 
+- [About](#star2-About)
+- [Demo](#movie_camera-Demo)
+- [Set Up](#outbox_tray-Set_up)
+- [Contribute](#building_construction-Contribute)
+- [Deployment](#rocket-Deployment)
+- [File Structure](#file_folder-File_Structure)
+- [Roadmap](#bicyclist-Roadmap)
+- [FAQ](#thinking-FAQ)
 - [License](#page_facing_up-License)
 - [List of Contributors](#people_holding_hands-Our-List-of-Contributors)
 - [Contact](#email-contact)
-
 
 ---
 
@@ -42,7 +49,8 @@ _If you find this template useful, consider giving it a star_ 🙏
 ---
 
 ###  :outbox_tray: Set up
-- These are the steps required to install the project and mention if necessary specificities based on `<Windows/Linux/Mac>`
+- These are the steps required to install the project.
+- Mention, if needed, requirements based on the different OS type: `<Windows/Linux/Mac>`.
 
 1. Get a API Key at [website](example.com)
 2. Clone the repo
@@ -60,7 +68,7 @@ _If you find this template useful, consider giving it a star_ 🙏
 
 ---
 
-###  :building_construction: Contributors
+###  :building_construction: Contribute
 - In this section, you invite users to learn how to contribute to your project.
 - This is also be the place to add a link to your CONTRIBUTING.md file
 
@@ -68,9 +76,7 @@ _If you find this template useful, consider giving it a star_ 🙏
   <summary>Choose an Issue</summary>
     
     1. Pick an issue that interests you - if you're new, look for `good-first-issue` tags.
-    
     2. Read the CONTRIBUTING.md file
-    
     3. Comment on the Issue, and explain why you want to work on it (+ showcase any relevant background information on why you can solve the issue).
     
 </details>
