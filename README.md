@@ -44,6 +44,12 @@ _If you find this template useful, consider giving it a star_ 🙏
 - After the initial introduction, you can add a screen recording of your project.
 - If the video's size is too large, it is a good idea to post your video on YouTube and attach a picture that redirects to the video (as shown below).
 
+<p align="center">
+    <a href="https://youtu.be">
+        <img src="https://private-user-images.githubusercontent.com/83458751/286227027-bd7c3b93-0c32-4fdf-bf6d-01d6114633ad.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDEyMDEzODYsIm5iZiI6MTcwMTIwMTA4NiwicGF0aCI6Ii84MzQ1ODc1MS8yODYyMjcwMjctYmQ3YzNiOTMtMGMzMi00ZmRmLWJmNmQtMDFkNjExNDYzM2FkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzExMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMTI4VDE5NTEyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUwOGI3M2MxMWNlZTM4MTVjMDM1YmEwOGExNjA5MTgwYTVjZjdlMTdlMTdhYzBiMWQyODhjMDc5NzRjZTEyNWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.i08EtN_6rjsrrr6n-MNBkQPyOSocTunJpcXK2PU9gOM"/>
+    </a>
+</p>
+
 [![image](https://github.com/quine-sh/README-Template/assets/83458751/bd7c3b93-0c32-4fdf-bf6d-01d6114633ad)](youtube.com)
 
 $~$
