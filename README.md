@@ -99,21 +99,6 @@ Choose an Issue
     - Our team will review your pull request and provide feedback or request changes if necessary. 
     - Once your pull request is approved, **we will merge it into the main codebase.** 🥳
 
----
-
-**Found a bug?**
-
-    - If you think users encountered a bug, let them know how to report it in the issue section.
-
-**Request a feature**
-
-    - If you think users encountered a bug, let them know how to report it in the issue section.
-    - Mention that all requests will be considered and then you will decide which will be picked for development.  
-
-
-- Point users to the code of Conduct.
-- Mention that if users are stuck, they should comment on the issue or contact you directly (email/discord/slack/etc).
-
 
 ### :rocket: Deployment
 - You can write your deployment instructions here.
