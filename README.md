@@ -42,12 +42,17 @@ _If you find this template useful, consider giving it a star_ 🙏
 
 ###  :movie_camera: Demo
 - After the initial introduction, you can add a screen recording of your project.
-- If the video's size is too large, it is a good idea to post your video on YouTube and attach the link here. 
+- If the video's size is too large, it is a good idea to post your video on YouTube and attach a picture that redirects to the video (as shown below).
+
+[![image](https://github.com/quine-sh/README-Template/assets/83458751/bd7c3b93-0c32-4fdf-bf6d-01d6114633ad)](youtube.com)
+
 
 
 ###  :outbox_tray: Set up
 - These are the steps required to install the project.
 - Mention, if needed, requirements based on the different OS type: `<Windows/Linux/Mac>`.
+
+_E.g_
 
 1. Get a API Key at [website](example.com)
 2. Clone the repo
@@ -69,6 +74,8 @@ _If you find this template useful, consider giving it a star_ 🙏
 - In this section, you invite users to learn how to contribute to your project.
 - This is also the place to add a link to your CONTRIBUTING.md file
 
+  _E.g_
+
 **Choose an Issue**
 
     1. Pick an issue that interests you - if you're new, look for `good-first-issue` tags.
@@ -77,22 +84,23 @@ _If you find this template useful, consider giving it a star_ 🙏
     
 **Set Up Your Environment**
 
-    1. `Fork` our repository to your GitHub account. This creates a copy where you can make changes without affecting the original project.
+    1. `Fork` our repository to your GitHub account. 
     2. `Clone` your fork to your local machine. 
-        * Use the command `git clone <your-fork-url>`.
+        Use the command `git clone <your-fork-url>`.
     3. Create a new branch for your work. 
-        * Use a descriptive name, like `fix-login-bug` or `add-user-profile-page`.
+        Use a descriptive name, like `fix-login-bug` or `add-user-profile-page`.
     
 **Commit Your Changes**
 
     - Commit your changes with a _clear commit message_. 
-        * e.g: `git commit -m "Fix login bug by updating auth logic"`.
+      e.g `git commit -m "Fix login bug by updating auth logic"`.
 
 **Submit a Pull Request**
 
     - Push your branch and changes to your fork on GitHub.
     - Create a pull request, compare branches and submit.
-    - Provide a detailed description of what changes you've made and why. Link the pull request to the issue it resolves. 🔗
+    - Provide a detailed description of what changes you've made and why. 
+      Link the pull request to the issue it resolves. 🔗
     
 **Review and Merge**
 
@@ -174,6 +182,8 @@ Something that works quite well if you want to include an FAQ  here are **toggle
 - State the license chosen and link it here.
 - You can also provide a justification for the type of license chosen if you believe it to be necessary.
 
+$~$
+
 ### :people_holding_hands: Our List of Contributors
 - State all the contributors that have helped build this project.
 - You can use the bot made by [https://allcontributors.org/](https://allcontributors.org/) to add new contributors automatically.
@@ -183,7 +193,15 @@ Something that works quite well if you want to include an FAQ  here are **toggle
 
 
 ### :email: Contact 
-- Email and social media links. 
+- Email and social media links.
+- Head over to [[https://github.com/alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile#-social-)
+  * Copy paste the social links you enjoy and drop them below (make sure to change the `href` to your own links
+
+<p align="left">
+<a href="https://twitter.com/fernandezbap" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="fernandezbap" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/baptiste-fernandez-%E5%B0%8F%E7%99%BD-0a958630/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="40" /></a>
+<a href="https://dev.to/fernandezbaptiste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fernandezbaptiste" height="30" width="40" /></a>
+</p>
 
 
 
