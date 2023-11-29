@@ -210,7 +210,7 @@ $~$
 
 ### :email: Contact 
 - Email and social media links.
-- Head over to [[https://github.com/alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile#-social-)
+- Head over to [here](https://github.com/alexandresanlim/Badges4-README.md-Profile#-social-)
   * Copy paste the social links you enjoy and drop them below (make sure to change the `href` to your own links
 
 <p align="left">
